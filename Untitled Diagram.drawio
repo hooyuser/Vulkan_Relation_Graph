@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-06-06T14:26:01.213Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="5vWQIUndurlAxwrESQU3" version="14.7.6" type="github"><diagram id="baFzMBZQvumeQl2_fwXA" name="Page-1">rZRbb4IwFIB/Dcn2YGKLwvY4Uecelmxz2fZaoQJZoVjKwP36tfZwadDEh8UEy3fuh3PquEHWPApSJM88oszB06hx3KWDsY889dTgaIDr+wbEIo0MQj3Ypr8U4BRolUa0tBQl50ymhQ1Dnuc0lBYjQvDaVttzZkctSExHYBsSNqafaSQTQ++w3/MNTeOkjYy8eyPJSKsMlZQJiXg9QO7KcQPBuTSnrAko071r+2Ls1hekXWKC5vIagyrYvnoh+3xvXg7rt8nXdDMrJ+Dlh7AKCnawx5S/xZ4rt6phJDQC71DpTBcBz0vOSNkTXZs8MltNm0/K0+d8UArIL5qhhRfD/ylWWZD8rJeQMy6MBxHvbvQwqSID9VQuuzOao9ux84/vp7yUJFf5QxjVGxPJjr4T5/OxGfQDMloO47mI6N9/dCQdp2wC28lcXcnIHlu5YcGrPKJ6QpAS10kq6bYwn7xW+6xYIjMGYpgVKiRtLg4h6kZbXQmUZ1SKo1IBAzyDbYDrAM3hve6XC7UbkwwWq9UjsM9x57ofeXWAqW9f++06yQZXlLv6Aw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-06T14:26:26.854Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="6chRbyRPTANrRgTN2dlS" version="14.7.6" type="github">
+  <diagram id="baFzMBZQvumeQl2_fwXA" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uCSQ6clWTxPqFR-X0H4s-1" value="&lt;font face=&quot;Consolas&quot; style=&quot;font-size: 17px&quot;&gt;&lt;span style=&quot;color: rgb(16 , 201 , 151)&quot;&gt;VkInstance&lt;/span&gt;&lt;br&gt;&lt;span&gt;&lt;font color=&quot;#1a1a1a&quot; style=&quot;font-size: 17px&quot;&gt;instance&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="150" width="120" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

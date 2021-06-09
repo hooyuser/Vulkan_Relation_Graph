@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-08T17:12:26.191Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="0hcnvDJYhgIYnGt_hutt" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-09T18:58:25.798Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="vIw9KMRi-J2n_IINiGPZ" version="14.7.6" type="github">
   <diagram id="baFzMBZQvumeQl2_fwXA" name="Page-1">
-    <mxGraphModel dx="10060" dy="1823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="8330" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -728,6 +728,27 @@
         <mxCell id="FvHJdSDC7yqyWIZDWJ_g-76" value="&lt;font color=&quot;#cfcf00&quot; face=&quot;Consolas&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;vkAllocateCommandBuffers&lt;/span&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-6253" y="1010" as="geometry">
             <mxPoint x="-8" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IwZx3vPikLZSMO_axGeU-1" value="&lt;font color=&quot;#10c997&quot; face=&quot;consolas&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;VkImage&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;consolas&amp;#34;&quot;&gt;&lt;font color=&quot;#1a1a1a&quot; face=&quot;consolas&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;textureImage&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3320" y="1030" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IwZx3vPikLZSMO_axGeU-2" value="&lt;font color=&quot;#10c997&quot; face=&quot;consolas&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;VkDeviceMemory&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;consolas&amp;#34;&quot;&gt;&lt;font color=&quot;#1a1a1a&quot; face=&quot;consolas&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;textureImageMemory&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3130" y="1030" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IwZx3vPikLZSMO_axGeU-3" value="&lt;font color=&quot;#cfcf00&quot; face=&quot;Consolas&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;vkBindImageMemory&lt;/span&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-3150" y="1111.25" as="geometry">
+            <mxPoint x="-26" y="58" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IwZx3vPikLZSMO_axGeU-4" value="&lt;font color=&quot;#cfcf00&quot; face=&quot;Consolas&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;vkCreateImage&lt;/span&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-3270" y="980" as="geometry">
+            <mxPoint x="8" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IwZx3vPikLZSMO_axGeU-5" value="&lt;font color=&quot;#cfcf00&quot; face=&quot;Consolas&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;vkAllocateMemory&lt;/span&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-3035" y="980" as="geometry">
+            <mxPoint x="-3" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T20:30:19.238Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="D88MxEPT3EkH2f0CZKzR" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-09T20:35:40.637Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="qZspsvOh3VGjmxc529hv" version="14.7.6" type="github">
   <diagram id="baFzMBZQvumeQl2_fwXA" name="Page-1">
-    <mxGraphModel dx="16863" dy="2879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3800" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="13995" dy="1368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3800" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -550,11 +550,6 @@
             <mxPoint x="-33" y="50" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FvHJdSDC7yqyWIZDWJ_g-107" value="&lt;font color=&quot;#cfcf00&quot; face=&quot;Consolas&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;vkBindBufferMemory&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-9491" y="880" as="geometry">
-            <mxPoint x="-26" y="58" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="J2HJMgRs6SmeJb-_eaJ9-2" value="&lt;font color=&quot;#cfcf00&quot; face=&quot;consolas&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;vkAcquireNextImageKHR&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-10657" y="1450" width="225" height="40" as="geometry" />
         </mxCell>
@@ -625,11 +620,6 @@
         </mxCell>
         <mxCell id="E67KO1QZ1ISF3svEd59q-9" value="&lt;font color=&quot;#10c997&quot; style=&quot;font-family: &amp;#34;consolas&amp;#34;&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;vec&amp;lt;VkDeviceMemory&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;consolas&amp;#34;&quot;&gt;&lt;font color=&quot;#1a1a1a&quot; face=&quot;consolas&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;uniformBuffersMemory&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-9151" y="865" width="205" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="E67KO1QZ1ISF3svEd59q-11" value="&lt;font color=&quot;#cfcf00&quot; face=&quot;Consolas&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;vkBindBufferMemory&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-9101" y="880" as="geometry">
-            <mxPoint x="-26" y="58" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="E67KO1QZ1ISF3svEd59q-15" value="&lt;font face=&quot;consolas&quot; color=&quot;#cc0066&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;updateUniformBuffer&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-10643.220000000001" y="1520" width="197.44" height="40" as="geometry" />
@@ -835,16 +825,27 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-8844" y="1160" />
-              <mxPoint x="-8307" y="1160" />
+              <mxPoint x="-8306" y="1160" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="E67KO1QZ1ISF3svEd59q-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeColor=#9E5321;shape=link;" parent="1" source="E67KO1QZ1ISF3svEd59q-8" target="E67KO1QZ1ISF3svEd59q-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-9284" y="1160" />
+              <mxPoint x="-9280" y="915" />
+              <mxPoint x="-9280" y="1160" />
               <mxPoint x="-8306" y="1160" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FvHJdSDC7yqyWIZDWJ_g-107" value="&lt;font color=&quot;#cfcf00&quot; face=&quot;Consolas&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;vkBindBufferMemory&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-9491" y="880" as="geometry">
+            <mxPoint x="-26" y="58" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E67KO1QZ1ISF3svEd59q-11" value="&lt;font color=&quot;#cfcf00&quot; face=&quot;Consolas&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;vkBindBufferMemory&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-9101" y="880" as="geometry">
+            <mxPoint x="-26" y="58" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
